@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+langchain
+langchain-community
+langchain-groq
+pypdf
+rouge
+transformers
